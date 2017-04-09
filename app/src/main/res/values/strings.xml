@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="datevalue">9 , Apr 2017</string>
+    <string name="submitbutton">submit</string>
+    <string name="sharebutton">share</string>
+    <string name="datetextview">Date</string>
+    <string name="locationvalue">India Gate</string>
+    <string name="locationtextview">Location</string>
+    <string name="multilinetextview">The India Gate, , is a war memorial located astride the Rajpath, on the eastern edge of the
+        ‘ceremonial axis’ of New Delhi, India, formerly called Kingsway. </string>
+    <string name="mainpicturecontentdescribtion">mainpicture</string>
+    <string name="ratingcontentdescribtion">rating</string>
+</resources>
